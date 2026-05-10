@@ -46,57 +46,24 @@ vless://93246986-2fbf-4dfb-a2c3-39a4f11f42ce@cdn35.api-rutube.ru:443?security=re
 vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@217.16.21.98:43734?type=tcp&security=reality&encryption=none&pbk=EmxjufVjLM7r1ZRT4hqoOF5NnqPIbzp9oXCqM58hpyg&fp=chrome&sni=ads.x5.ru&sid=ec&spx=%2F&flow=xtls-rprx-vision#🇱🇻SLADEMIE%20%7C%7C%20LTE
 vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@217.16.21.98:43734?type=tcp&security=reality&encryption=none&pbk=EmxjufVjLM7r1ZRT4hqoOF5NnqPIbzp9oXCqM58hpyg&fp=chrome&sni=ads.x5.ru&sid=ec&spx=%2F&flow=xtls-rprx-vision#🇫🇮Slademie%20%7C%7C%20LTE
 vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@217.16.21.98:27472?type=tcp&security=reality&encryption=none&pbk=tfBYj32NRb7oc8lmVjr0nlote_rqpe_vd367HlcwxVs&fp=chrome&sni=www.samsung.com&sid=b0&spx=%2F&flow=xtls-rprx-vision#🇩🇪Slademie%20%7C%7C%20LTE
-Обход блокировок:
-🇷🇺 Россия | Рабочий Telegram |
-
 trojan://bb06e055ee5b4cb7a3a1e581bd7c09a2@51.250.7.178:9443?security=reality&pbk=vx5RK4STxuAX2947xfELORV0hnIFNxZFRgOtAVk1U3s&headerType=none&fp=random&type=tcp&sni=ya.ru&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20Telegram%20%7C%20%D1%82%D0%B3%D0%BA%3A%20Vlesstrogan
-
 vless://4802a2de-a201-4ddc-890c-1c281d054356@ctl-5.harknmav.fun:443?security=reality&encryption=none&pbk=6J_AxEvmrukAO9g_m5FsmLfyekhWly3K14T4V6dz7jc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2a752b0d4d15e0f7#%F0%9F%87%B7%F0%9F%87%BA%20CVEDC%20VPN%20%7C%20LTE%20%F0%9F%97%BC
-
-Обход
-
 vless://4802a2de-a201-4ddc-890c-1c281d054356@ctl-5.harknmav.fun:443?security=reality&encryption=none&pbk=6J_AxEvmrukAO9g_m5FsmLfyekhWly3K14T4V6dz7jc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2a752b0d4d15e0f7#%F0%9F%87%B7%F0%9F%87%BA%20Slademie%20%7C%20LTE%20%F0%9F%97%BC 
-
-Обход
-
-🌍 VPN ключи
-
 vless://93246986-2fbf-4dfb-a2c3-39a4f11f42ce@68.209.56.154:443?security=reality&encryption=none&pbk=_4cv7OXJFuVt8PGPNwk8isFFgrRR5tKojjpLWGTN8RI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun#🇳🇱 Нидерланды | VPN | ТГК @SlademieVless
-
 vless://93246986-2fbf-0210-a2c3-39a4f11f42ce@auto.api-rutube.ru:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun#🇳🇱 Нидерланды #2 | VPN | ТГК @SlademieVless
-
 vless://93246986-2fbf-4dfb-a2c3-39a4f11f42ce@50.7.90.251:443?security=reality&encryption=none&pbk=_4cv7OXJFuVt8PGPNwk8isFFgrRR5tKojjpLWGTN8RI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun#🇩🇪 Германия #1 | VPN | ТГК @SlademieVless
-
 vless://93246986-2fbf-0114-a2c3-39a4f11f42ce@auto.api-rutube.ru:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun#🇩🇪 Германия #2 | VPN | ТГК @SlademieVless
-
 vless://93246986-2fbf-4dfb-a2c3-39a4f11f42ce@198.16.112.202:443?security=reality&encryption=none&pbk=_4cv7OXJFuVt8PGPNwk8isFFgrRR5tKojjpLWGTN8RI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun#🇫🇷 Франция | VPN | ТГК @SlademieVless
-
 vless://93246986-2fbf-0348-a2c3-39a4f11f42ce@auto.api-rutube.ru:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun#🇺🇸 США | VPN | ТГК @SlademieVless
-
 vless://93246986-2fbf-0188-a2c3-39a4f11f42ce@auto.api-rutube.ru:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun#🇯🇵 Япония | VPN | ТГК @SlademieVless
-
-🇷🇺 Обходы белых списков
-
 vless://93246986-2fbf-4dfb-a2c3-39a4f11f42ce@cdn34.api-rutube.ru:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=egress.yandex.net#🇷🇺 LTE #1 | ТГК @SlademieVless
-
 vless://93246986-2fbf-4dfb-a2c3-39a4f11f42ce@cdn35.api-rutube.ru:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vkvideo.ru#🇷🇺 LTE #2 | ТГК @SlademieVless
-
 vless://93246986-2fbf-4dfb-a2c3-39a4f11f42ce@cdn35.api-rutube.ru:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh5.vk.com#🇷🇺 LTE #3 | ТГК @SlademieVless
-
 vless://93246986-2fbf-4dfb-a2c3-39a4f11f42ce@cdn34.api-rutube.ru:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun22-21.userapi.com#🇷🇺 LTE #4 | ТГК @SlademieVless
-
 vless://93246986-2fbf-4dfb-a2c3-39a4f11f42ce@cdn34.api-rutube.ru:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru#🇷🇺 LTE #5 | ТГК @SlademieVless
-
 vless://93246986-2fbf-4dfb-a2c3-39a4f11f42ce@cdn34.api-rutube.ru:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru#🇷🇺 LTE #6 | ТГК @SlademieVless
-
 vless://93246986-2fbf-4dfb-a2c3-39a4f11f42ce@cdn35.api-rutube.ru:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kinopoisk.ru#🇷🇺 LTE #7 | ТГК @SlademieVless
-
 vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@217.16.21.98:43734?type=tcp&security=reality&encryption=none&pbk=EmxjufVjLM7r1ZRT4hqoOF5NnqPIbzp9oXCqM58hpyg&fp=chrome&sni=ads.x5.ru&sid=ec&spx=%2F&flow=xtls-rprx-vision#🇱🇻SLADEMIE%20%7C%7C%20LTE
-
 🇫🇮 Хельсинки, обход LTE 🗼
 vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@217.16.21.98:43734?type=tcp&security=reality&encryption=none&pbk=EmxjufVjLM7r1ZRT4hqoOF5NnqPIbzp9oXCqM58hpyg&fp=chrome&sni=ads.x5.ru&sid=ec&spx=%2F&flow=xtls-rprx-vision#🇫🇮Slademie%20%7C%7C%20LTE
-
-Обход белого списка + вай-фай 🔥
-Стабильный и рабочий
-
 vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@217.16.21.98:27472?type=tcp&security=reality&encryption=none&pbk=tfBYj32NRb7oc8lmVjr0nlote_rqpe_vd367HlcwxVs&fp=chrome&sni=www.samsung.com&sid=b0&spx=%2F&flow=xtls-rprx-vision#🇩🇪Slademie%20%7C%7C%20LTE
