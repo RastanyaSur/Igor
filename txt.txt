@@ -42,3 +42,16 @@ vless://11ce8522-b397-4483-898e-1ce9eacb68a4@top1342980873.mwscdn.ru:443?mode=au
 vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@ob5.skysafe.online:2082?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=o6zlxOHBtqwPdJNatvbmEHH_Ar6SJjJQqUViymfxHmo&security=reality&sid=cead3d22ec&sni=eh1.vk.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA517Mb%20%7C%20Global%20Cloud%20Network
 vless://74e76ee2-1a19-47ce-ae64-ad9183613df5@84.201.133.30:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vgECJ1J0IOIrxpnh7Pu7nhy2wJ_RJWq5wp_5sxp-3Bk&security=reality&sid=9db07670a7b491cb&sni=ads.x5.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA158Mb%20%7C%20YandexCloud
 vless://74e76ee2-1a19-47ce-ae64-ad9183613df5@84.201.132.59:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vgECJ1J0IOIrxpnh7Pu7nhy2wJ_RJWq5wp_5sxp-3Bk&security=reality&sid=9db07670a7b491cb&sni=ads.x5.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA90Mb%20%7C%20YandexCloud
+hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@bl.nimarko.org:443?security=tls&alpn=h3&insecure=0&sni=bl.nimarko.org#%F0%9F%87%A7%F0%9F%87%BE%20%20Belarus%20%20%5B01%5D%20%20MIFA
+hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@bl.nimarko.org:443?security=tls&insecure=0&sni=bl.nimarko.org#%F0%9F%87%A7%F0%9F%87%BE%20%20Belarus%20%20%5B02%5D%20%20MIFA
+hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?security=tls&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20%20Germany%20%20%5B01%5D%20%20MIFA
+hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?security=tls&insecure=1&sni=flkf.mangshe.xyz#%F0%9F%87%A9%F0%9F%87%AA%20%20Germany%20%20%5B02%5D%20%20MIFA
+hysteria2://hy2_nrsipx3s%3As1biCVox2iE8mCJMABu4N1H1h8igpShl@cz.washing.help:443?security=tls&insecure=1&sni=cz.washing.help#%F0%9F%87%A9%F0%9F%87%AA%20%20Germany%20%20%5B04%5D%20%20MIFA
+hysteria2://hy2_nrsipx3s%3AKY1GuGdHSpDuPxzLkDtJLUexoyt5dksu@washing.help:443?security=tls&insecure=1&sni=washing.help#%F0%9F%87%AB%F0%9F%87%AE%20%20Finland%20%20%5B03%5D%20%20MIFA
+hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@finprem.nimarko.org:443?security=tls&insecure=0&sni=finprem.nimarko.org#%F0%9F%87%AB%F0%9F%87%AE%20%20Finland%20%20%5B04%5D%20%20MIFA
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-010.fastervpn.world:443?security=tls&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%20Japan%20%20%5B01%5D%20%20MIFA
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@116.206.92.123:443?security=tls&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%20Japan%20%20%5B03%5D%20%20MIFA
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@116.206.92.109:443?security=tls&insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AF%F0%9F%87%B5%20%20Japan%20%20%5B05%5D%20%20MIFA
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@116.206.92.109:443?security=tls&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%20Japan%20%20%5B06%5D%20%20MIFA
+hysteria2://hy2_nrsipx3s%3AzpQI3Vu7o9NdC6rS3L8JYXC7Q58HYUjv@lv2.cleanersaz.help:443?security=tls&insecure=1&sni=washing.help#%F0%9F%87%B1%F0%9F%87%BB%20%20Latvia%20%20%5B01%5D%20%20MIFA
+hysteria2://rstnnl%3A3aCqKdySktmmHzGwkT2BX5KfCazFlAOU@healthpp.ppnorma.ru:1935?security=tls&obfs=salamander&obfs-password=jGzqcJfAQmp635DiYeV5HJQyfgPsf&insecure=1&sni=healthpp.ppnorma.ru#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B01%5D%20%20MIFA
